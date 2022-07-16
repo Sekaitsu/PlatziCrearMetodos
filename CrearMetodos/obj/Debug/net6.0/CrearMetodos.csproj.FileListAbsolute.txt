@@ -1,0 +1,15 @@
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\bin\Debug\net6.0\CrearMetodos.exe
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\bin\Debug\net6.0\CrearMetodos.deps.json
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\bin\Debug\net6.0\CrearMetodos.runtimeconfig.json
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\bin\Debug\net6.0\CrearMetodos.dll
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\bin\Debug\net6.0\CrearMetodos.pdb
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\obj\Debug\net6.0\CrearMetodos.csproj.AssemblyReference.cache
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\obj\Debug\net6.0\CrearMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\obj\Debug\net6.0\CrearMetodos.AssemblyInfoInputs.cache
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\obj\Debug\net6.0\CrearMetodos.AssemblyInfo.cs
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\obj\Debug\net6.0\CrearMetodos.csproj.CoreCompileInputs.cache
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\obj\Debug\net6.0\CrearMetodos.dll
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\obj\Debug\net6.0\refint\CrearMetodos.dll
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\obj\Debug\net6.0\CrearMetodos.pdb
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\obj\Debug\net6.0\CrearMetodos.genruntimeconfig.cache
+C:\Users\lbernate\source\repos\CrearMetodos\CrearMetodos\obj\Debug\net6.0\ref\CrearMetodos.dll
